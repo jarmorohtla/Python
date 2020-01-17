@@ -1,0 +1,32 @@
+1,AFC Ajax,Frank De Boer,4
+2,RSC Anderlecht,John van den Brom,3
+3,Arsenal FC,Arsène Wenger,2
+4,FC Barcelona,Tito Vilanova,7
+5,FC BATE Borisov,Viktor Goncharenko,6
+6,FC Bayern München,Jupp Heynckes,6
+7,SL Benfica,Jorge Jesus,7
+8,SC Braga,José Peseiro,8
+9,Celtic FC,Neil Lennon,7
+10,CFR 1907 Cluj,Paulo Sérgio,8
+11,Chelsea FC,Rafael Benítez,5
+12,GNK Dinamo Zagreb,Krunoslav Jurčić,1
+13,Borussia Dortmund,Jürgen Klopp,4
+14,FC Dynamo Kyiv,Oleh Blokhin,1
+15,Galatasaray AŞ,Fatih Terim,8
+16,Juventus,Antonio Conte,5
+17,LOSC Lille,Rudi Garcia,6
+18,Málaga CF,Manuel Pellegrini,3
+19,Manchester City FC,Roberto Mancini,4
+20,Manchester United FC,Sir Alex Ferguson,8
+21,AC Milan,Massimiliano Allegri,3
+22,Montpellier Hérault SC,René Girard,2
+23,FC Nordsjælland,Kasper Hjulmand,5
+24,Olympiacos FC,Antonis Nikopolidis,2
+25,FC Porto,Vítor Pereira,1
+26,Paris Saint-Germain FC,Carlo Ancelotti,1
+27,Real Madrid CF,José Mourinho,4
+28,FC Schalke 04,Jens Keller,2
+29,FC Shakhtar Donetsk,Mircea Lucescu,5
+30,FC Spartak Moskva,Valeri Karpin,7
+31,Valencia CF,Ernesto Valverde,6
+32,FC Zenit St Petersburg,Luciano Spalletti,3
